@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PocketFriend — Coming Soon</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+      width: 100vw;
+      overflow: hidden;
+    }
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://duifsa6hej.ufs.sh/f/Bq4aTs8FhDr7WUvTSZeSBfIODh6CNG9m3qYP51dHyZ8VsRrz" alt="Full Page Image">
+</body>
+</html>
